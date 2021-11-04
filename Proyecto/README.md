@@ -1,4 +1,4 @@
-### Final Proyect : Pacman
+### Final Project : Pacman
 
 This project consists of a pacman, in which it would be on a map where the balls that you have to eat would appear,
 this would have difficulty since the ghosts would be present which would follow you around the map.

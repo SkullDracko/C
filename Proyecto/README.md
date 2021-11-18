@@ -10,6 +10,10 @@ I use some libraries like conio.h because this allows me to use the arrows to mo
 
 The reason that the program blinks its because the screen is constantly updating in order to offer a real-time gaming experience.
 
+![image](https://user-images.githubusercontent.com/88119902/142381551-81a41128-82e6-44da-a5f2-bfd32c56678a.png)
+
+
+
 
 
 

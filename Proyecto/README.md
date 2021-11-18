@@ -13,7 +13,8 @@ The reason that the program blinks its because the screen is constantly updating
 ![image](https://user-images.githubusercontent.com/88119902/142381551-81a41128-82e6-44da-a5f2-bfd32c56678a.png)
 
 
-
+The truth is that I had my complications at the time of doing this program but I was able to support myself
+well thanks to the book and to search the internet for my doubts about it.
 
 
 
